@@ -10,4 +10,9 @@ I have moved into data analysis after 18 years in sales. I have lived with reven
 ## Tools
 SQL Server (T-SQL) | Excel | Power BI
 
+## Find Me
+https://www.linkedin.com/in/wilberforce-moyo/
+
+
+
 
